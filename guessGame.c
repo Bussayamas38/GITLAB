@@ -6,7 +6,7 @@
 int main(){
 
 	int randNum, count, guess;
-	char str[110];
+	char str[100];
 
 	srand(time(NULL));
 
